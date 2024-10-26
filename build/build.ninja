@@ -51,13 +51,13 @@ build cmake_object_order_depends_target_lab_4: phony || cmake_object_order_depen
 
 build CMakeFiles/lab_4.dir/main.cpp.obj: CXX_COMPILER__lab_4_unscanned_Debug D$:/projects/programming/lab_4/main.cpp || cmake_object_order_depends_target_lab_4
   DEP_FILE = CMakeFiles\lab_4.dir\main.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -Wall
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\lab_4.dir
   OBJECT_FILE_DIR = CMakeFiles\lab_4.dir
 
 build CMakeFiles/lab_4.dir/fun.cpp.obj: CXX_COMPILER__lab_4_unscanned_Debug D$:/projects/programming/lab_4/fun.cpp || cmake_object_order_depends_target_lab_4
   DEP_FILE = CMakeFiles\lab_4.dir\fun.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -Wall
+  FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\lab_4.dir
   OBJECT_FILE_DIR = CMakeFiles\lab_4.dir
 
@@ -90,7 +90,7 @@ build cmake_object_order_depends_target_fun: phony || .
 
 build CMakeFiles/fun.dir/fun.cpp.obj: CXX_COMPILER__fun_unscanned_Debug D$:/projects/programming/lab_4/fun.cpp || cmake_object_order_depends_target_fun
   DEP_FILE = CMakeFiles\fun.dir\fun.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -Wall
+  FLAGS = -g -std=gnu++14
   INCLUDES = -ID:/projects/programming/lab_4/build
   OBJECT_DIR = CMakeFiles\fun.dir
   OBJECT_FILE_DIR = CMakeFiles\fun.dir

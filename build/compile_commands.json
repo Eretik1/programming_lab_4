@@ -1,19 +1,19 @@
 [
 {
   "directory": "D:/projects/programming/lab_4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++14 -Wall -o CMakeFiles\\lab_4.dir\\main.cpp.obj -c D:\\projects\\programming\\lab_4\\main.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\lab_4.dir\\main.cpp.obj -c D:\\projects\\programming\\lab_4\\main.cpp",
   "file": "D:\\projects\\programming\\lab_4\\main.cpp",
   "output": "CMakeFiles\\lab_4.dir\\main.cpp.obj"
 },
 {
   "directory": "D:/projects/programming/lab_4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++14 -Wall -o CMakeFiles\\lab_4.dir\\fun.cpp.obj -c D:\\projects\\programming\\lab_4\\fun.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\lab_4.dir\\fun.cpp.obj -c D:\\projects\\programming\\lab_4\\fun.cpp",
   "file": "D:\\projects\\programming\\lab_4\\fun.cpp",
   "output": "CMakeFiles\\lab_4.dir\\fun.cpp.obj"
 },
 {
   "directory": "D:/projects/programming/lab_4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/projects/programming/lab_4/build -g -std=gnu++14 -Wall -o CMakeFiles\\fun.dir\\fun.cpp.obj -c D:\\projects\\programming\\lab_4\\fun.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/projects/programming/lab_4/build -g -std=gnu++14 -o CMakeFiles\\fun.dir\\fun.cpp.obj -c D:\\projects\\programming\\lab_4\\fun.cpp",
   "file": "D:\\projects\\programming\\lab_4\\fun.cpp",
   "output": "CMakeFiles\\fun.dir\\fun.cpp.obj"
 }

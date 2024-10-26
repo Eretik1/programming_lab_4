@@ -27,10 +27,10 @@ if (MSVC)
     )
 else ()
     target_compile_options(lab_4 PRIVATE
-        -Wall 
+        
     )
     target_compile_options(fun PRIVATE
-        -Wall 
+         
     )
 endif()
 
